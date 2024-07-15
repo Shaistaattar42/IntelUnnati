@@ -1,13 +1,13 @@
 # IntelUnnati
 Power Manager Telemetry 
 
-#language used
+#language used :
 python
 
-#Modules used
-psutil
-tkinter
-time
+#Modules used :
+psutil,
+tkinter,
+time.
 
 #output
 ![Screenshot (122)](https://github.com/user-attachments/assets/687797dc-a53f-4982-9d18-89f603d61bfd)
